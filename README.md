@@ -1,4 +1,4 @@
-##✨ E-IQRA: Enhancing Arabic Literacy with AI  💫
+### ✨ E-IQRA: Enhancing Arabic Literacy with AI  💫
 
 # E-Iqra : 
 Intelligent Mobile Application for Learning Arabic Alphabet developed by Team C241-PS045 from Bangkit academy 2024.
