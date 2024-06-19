@@ -15,8 +15,8 @@ E-IQRA addresses the challenge of inadequate resources and accessibility in lear
 | M124D4KX2130 | Fadila Rizka Nur Aminah    | Politeknik Harapan Bersama    | Machine Learning        | 
 | C189D4KY0381 | Dwifi Parizza Ibrahim      | Universitas Bengkulu          | Cloud Computing         | 
 | C189D4KY0533 | Muhammad Irfan             | Universitas Bengkulu          | Cloud Computing         | 
-| A006D4KY3625 | Muhammad Fadilah Mi`Roj    | Universitas Brawijay          | Mobile Development      | 
-| A006D4KY3929 | Ismail Extrant Sinaga      | Universitas Brawijay          | Mobile Development      | 
+| A006D4KY3625 | Muhammad Fadilah Mi`Roj    | Universitas Brawijaya         | Mobile Development      | 
+| A006D4KY3929 | Ismail Extrant Sinaga      | Universitas Brawijaya         | Mobile Development      | 
 
 
 ## Repository
