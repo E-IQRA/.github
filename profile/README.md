@@ -7,7 +7,8 @@ Intelligent Mobile Application for Learning Arabic Alphabet developed by Team C2
 E-IQRA addresses the challenge of inadequate resources and accessibility in learning Arabic alphabets, particularly the Hijaiyah letters. Leveraging AI, it offers personalized learning experiences to diverse learners, overcoming conventional limitations. Through interactive modules and intuitive UI, it aims to empower users with fundamental Arabic literacy. E-IQRA integrates seamlessly with mobile platforms, promising widespread accessibility. By bridging educational gaps and fostering a passion for Arabic language, E-IQRA endeavors to contribute to  Quranic studies.
 
 ## Our Team
-
+Team ID : C241-PS045
+Member  :
 | Member ID    | Name                       | Institution                   | Learning Path           | 
 |--------------|----------------------------|-------------------------------|-------------------------|
 | M124D4KY2799 | Riky Raharjo               | Politeknik Harapan Bersama    | Machine Learning        | 
